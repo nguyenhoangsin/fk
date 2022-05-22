@@ -1,21 +1,21 @@
 {
   "files": {
     "static/css/0.39fb35d5.chunk.css": "/fk/static/css/0.39fb35d5.chunk.css",
-    "static/js/0.c42925f5.chunk.js": "/fk/static/js/0.c42925f5.chunk.js",
-    "static/js/0.c42925f5.chunk.js.map": "/fk/static/js/0.c42925f5.chunk.js.map",
+    "static/js/0.0595d4b7.chunk.js": "/fk/static/js/0.0595d4b7.chunk.js",
+    "static/js/0.0595d4b7.chunk.js.map": "/fk/static/js/0.0595d4b7.chunk.js.map",
     "static/js/1.b037a7c6.chunk.js": "/fk/static/js/1.b037a7c6.chunk.js",
     "static/js/1.b037a7c6.chunk.js.map": "/fk/static/js/1.b037a7c6.chunk.js.map",
     "main.css": "/fk/static/css/main.130a4c48.chunk.css",
-    "main.js": "/fk/static/js/main.592dd2ce.chunk.js",
-    "main.js.map": "/fk/static/js/main.592dd2ce.chunk.js.map",
-    "runtime-main.js": "/fk/static/js/runtime-main.364b381e.js",
-    "runtime-main.js.map": "/fk/static/js/runtime-main.364b381e.js.map",
+    "main.js": "/fk/static/js/main.24f9611a.chunk.js",
+    "main.js.map": "/fk/static/js/main.24f9611a.chunk.js.map",
+    "runtime-main.js": "/fk/static/js/runtime-main.80ba655d.js",
+    "runtime-main.js.map": "/fk/static/js/runtime-main.80ba655d.js.map",
     "static/css/4.b49defa7.chunk.css": "/fk/static/css/4.b49defa7.chunk.css",
     "static/js/4.7aae87d5.chunk.js": "/fk/static/js/4.7aae87d5.chunk.js",
     "static/js/4.7aae87d5.chunk.js.map": "/fk/static/js/4.7aae87d5.chunk.js.map",
     "static/css/5.d78cc6b5.chunk.css": "/fk/static/css/5.d78cc6b5.chunk.css",
-    "static/js/5.f37553e3.chunk.js": "/fk/static/js/5.f37553e3.chunk.js",
-    "static/js/5.f37553e3.chunk.js.map": "/fk/static/js/5.f37553e3.chunk.js.map",
+    "static/js/5.b46d8119.chunk.js": "/fk/static/js/5.b46d8119.chunk.js",
+    "static/js/5.b46d8119.chunk.js.map": "/fk/static/js/5.b46d8119.chunk.js.map",
     "static/js/6.762e6147.chunk.js": "/fk/static/js/6.762e6147.chunk.js",
     "static/js/6.762e6147.chunk.js.map": "/fk/static/js/6.762e6147.chunk.js.map",
     "static/js/7.a42c8e6b.chunk.js": "/fk/static/js/7.a42c8e6b.chunk.js",
@@ -35,10 +35,10 @@
     "static/media/bootstrap-icons.css": "/fk/static/media/bootstrap-icons.ea6f3dfe.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.364b381e.js",
+    "static/js/runtime-main.80ba655d.js",
     "static/css/4.b49defa7.chunk.css",
     "static/js/4.7aae87d5.chunk.js",
     "static/css/main.130a4c48.chunk.css",
-    "static/js/main.592dd2ce.chunk.js"
+    "static/js/main.24f9611a.chunk.js"
   ]
 }
