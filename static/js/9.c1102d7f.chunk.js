@@ -1,2 +1,0 @@
-(this.webpackJsonpfk=this.webpackJsonpfk||[]).push([[9],{276:function(t,e,n){"use strict";n.r(e);var c=n(5),r=n(6),a=n(7),u=n(8),i=n(4),s=n(18),o=function(t){Object(a.a)(n,t);var e=Object(u.a)(n);function n(t){return Object(c.a)(this,n),e.call(this,t)}return Object(r.a)(n,[{key:"render",value:function(){return Object(s.jsx)("div",{children:"TrackWallet"})}}]),n}(i.PureComponent);e.default=o}}]);
-//# sourceMappingURL=9.c1102d7f.chunk.js.map
